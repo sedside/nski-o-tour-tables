@@ -1,0 +1,114 @@
+.one-competition-table {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding-bottom: 30px;
+}
+
+.one-competition-table__table-title,
+.one-competition-table__table-subtitle {
+  max-width: 600px;
+  text-align: center;
+  margin: auto;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: royalblue;
+}
+
+.one-competition-table__table-title {
+  margin-top: 12px;
+}
+
+.one-competition-table__table-subtitle {
+  font-size: 16px;
+  margin-bottom: 32px;
+}
+
+@media (max-width: 500px) {
+  .one-competition-table__table-title {
+    font-size: 18px;
+    margin-top: 0;
+  }
+
+  .one-competition-table__table-subtitle {
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+}
+
+.one-competition-table__title {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 8px auto;
+  color: #333;
+}
+
+@media (max-width: 500px) {
+  .one-competition-table__title {
+    font-size: 16px;
+  }
+}
+
+.one-competition-table__title_mobile {
+  margin-left: 8px;
+}
+
+.one-competition-table__table-container {
+  align-self: center;
+}
+
+.one-competition-table__table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.one-competition-table__head {
+  font-weight: bold;
+  border-bottom: 1px solid #333;
+  background: lightsteelblue;
+  color: #333;
+}
+
+.one-competition-table__head-cell {
+  padding: 4px 2px 4px 2px;
+}
+
+.one-competition-table__cell {
+  border-bottom: 1px solid #ddd;
+  padding: 8px 4px;
+}
+
+.one-competition-table__cell_mobile {
+  padding: 8px 2px;
+}
+
+.one-competition-table__cell_small {
+  font-size: 12px;
+}
+
+.one-competition-table__cell_very-small {
+  font-size: 11px;
+}
+
+.one-competition-table__official-title {
+  font-weight: bold;
+  color: darkred;
+}
+
+.one-competition-table__official-name {
+  margin-left: 40px;
+}
+
+@media (max-width: 500px) {
+  .one-competition-table__official-title {
+    margin-left: 12px;
+  }
+}
+
+.one-competition-table__row:nth-child(2n) {
+  background: ghostwhite;
+}

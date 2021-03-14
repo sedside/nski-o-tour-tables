@@ -1,0 +1,4375 @@
+{
+  "name": "NSki-O-Tour-2021",
+  "long_name": "Кубок NSki-O-Tour-2021",
+  "events": [
+    {
+      "name": "2020-12-20",
+      "short_name": "20 дек",
+      "route_name": "2020-12-20",
+      "long_name": "20 декабря 2020 г.",
+      "date": "20 декабря 2020 г.",
+      "location": "Университетский лес"
+    },
+    {
+      "name": "2021-01-07",
+      "short_name": "7 янв",
+      "route_name": "2021-01-07",
+      "long_name": "7 января 2021 г.",
+      "date": "7 января 2021 г.",
+      "location": "Университетский лес"
+    },
+    {
+      "name": "2021-01-10",
+      "short_name": "10 янв",
+      "route_name": "2021-01-10",
+      "long_name": "10 января 2021 г.",
+      "date": "10 января 2021 г.",
+      "location": "Университетский лес"
+    },
+    {
+      "name": "2021-01-23",
+      "short_name": "23 янв",
+      "route_name": "2021-01-23",
+      "long_name": "23 января 2021 г.",
+      "date": "23 января 2021 г.",
+      "location": "Л/б им. А. Тульского"
+    },
+    {
+      "name": "2021-02-06",
+      "short_name": "6 фев",
+      "route_name": "2021-02-06",
+      "long_name": "6 февраля 2021 г.",
+      "date": "6 февраля 2021 г.",
+      "location": "Л/б им. А. Тульского"
+    },
+    {
+      "name": "2021-02-07",
+      "short_name": "7 фев",
+      "route_name": "2021-02-07",
+      "long_name": "7 февраля 2021 г.",
+      "date": "7 февраля 2021 г.",
+      "location": "Л/б им. А. Тульского"
+    },
+    {
+      "name": "2021-02-14",
+      "short_name": "14 фев",
+      "route_name": "2021-02-14",
+      "long_name": "14 февраля 2021 г.",
+      "date": "14 февраля 2021 г.",
+      "location": "Ботсад НГУ"
+    },
+    {
+      "name": "2021-02-21",
+      "short_name": "21 фев",
+      "route_name": "2021-02-21",
+      "long_name": "",
+      "date": "",
+      "location": "л/б Красное знамя"
+    },
+    {
+      "name": "2021-02-28",
+      "short_name": "28 фев",
+      "route_name": "2021-02-28",
+      "long_name": "28 февраля 2021 г.",
+      "date": "28 февраля 2021 г.",
+      "location": "Университетский лес"
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Удалкин Никита",
+      "team": "Центр.округ, Or-ly",
+      "qual": "КМС",
+      "year_birth": 1995,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 594,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "00:43:51",
+          "points": 98,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:30:00",
+          "points": 100,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "00:53:25",
+          "points": 97,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "00:48:54",
+          "points": 98,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:05:38",
+          "points": 97,
+          "cup_status": "dropped"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:40:02",
+          "points": 100,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "00:53:08",
+          "points": 100,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "00:51:42",
+          "points": 98,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Опарин Григорий",
+      "team": "НГУ",
+      "qual": "МС",
+      "year_birth": 1977,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 7,
+      "num_counted": 6,
+      "cup_result": 572,
+      "events": {
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:32:54",
+          "points": 91,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "00:52:04",
+          "points": 100,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:04:59",
+          "points": 98,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:44:21",
+          "points": 90,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:00:23",
+          "points": 87,
+          "cup_status": "dropped"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "00:54:16",
+          "points": 93,
+          "cup_status": "counted"
+        },
+        "2020-12-20": {
+          "group": "",
+          "result": "00:00:00",
+          "points": 100,
+          "cup_status": "technical-director counted"
+        }
+      }
+    },
+    {
+      "name": "Опарин Дмитрий",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "I",
+      "year_birth": 2004,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 556,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "00:48:51",
+          "points": 88,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:34:20",
+          "points": 87,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "00:58:49",
+          "points": 88,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "00:52:54",
+          "points": 90,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:04:03",
+          "points": 100,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:44:37",
+          "points": 89,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "00:59:06",
+          "points": 89,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "00:50:53",
+          "points": 100,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шевченко Сергей",
+      "team": "СКА ветеран",
+      "qual": "МС",
+      "year_birth": 1964,
+      "gender": "male",
+      "comp_class": "М50",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 543,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "00:49:15",
+          "points": 87,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:33:53",
+          "points": 88,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "00:54:25",
+          "points": 95,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:07:50",
+          "points": 94,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "00:57:34",
+          "points": 92,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "00:58:02",
+          "points": 87,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Турубаров Александр",
+      "team": "Советский район",
+      "qual": "I",
+      "year_birth": 1988,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 7,
+      "num_counted": 6,
+      "cup_result": 495,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "00:56:15",
+          "points": 77,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:14:17",
+          "points": 69,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "00:58:05",
+          "points": 82,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:17:31",
+          "points": 82,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:50:38",
+          "points": 79,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:07:27",
+          "points": 75,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "",
+          "result": "00:00:00",
+          "points": 100,
+          "cup_status": "technical-director counted"
+        }
+      }
+    },
+    {
+      "name": "Архипова Кира",
+      "team": "Центр.округ, Or-ly",
+      "qual": "МС",
+      "year_birth": 1986,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 472,
+      "events": {
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:31:48",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "00:50:58",
+          "points": 79,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:38:37",
+          "points": 71,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "00:50:02",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:00:25",
+          "points": 71,
+          "cup_status": "dropped"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:41:43",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:39:08",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:12:04",
+          "points": 73,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Прасолова Мария",
+      "team": "Советский район",
+      "qual": "МС",
+      "year_birth": 1985,
+      "gender": "female",
+      "comp_class": "М21",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 462,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:03:14",
+          "points": 68,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:44:04",
+          "points": 68,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "00:50:43",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:40:15",
+          "points": 68,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:10:20",
+          "points": 61,
+          "cup_status": "dropped"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:46:04",
+          "points": 72,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:11:19",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "",
+          "result": "00:00:00",
+          "points": 100,
+          "cup_status": "technical-director counted"
+        }
+      }
+    },
+    {
+      "name": "Стародубцева Анастасия",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "I",
+      "year_birth": 2005,
+      "gender": "female",
+      "comp_class": "Ж17",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 452,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "00:49:40",
+          "points": 63,
+          "cup_status": "dropped"
+        },
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:35:23",
+          "points": 71,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "00:54:44",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:34:21",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "00:54:20",
+          "points": 73,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:05:28",
+          "points": 66,
+          "cup_status": "dropped"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:42:15",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:06:03",
+          "points": 80,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Артемов Алексей",
+      "team": "Советский район",
+      "qual": "МС",
+      "year_birth": 1985,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 450,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "00:58:01",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:41:56",
+          "points": 71,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:04:38",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:07:06",
+          "points": 71,
+          "cup_status": "dropped"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:20:55",
+          "points": 79,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:53:54",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:15:30",
+          "points": 68,
+          "cup_status": "dropped"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:10:20",
+          "points": 72,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Лисица Вадим",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1980,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 433,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:00:46",
+          "points": 70,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:48:59",
+          "points": 61,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:15:23",
+          "points": 68,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:03:58",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:24:14",
+          "points": 75,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:52:12",
+          "points": 76,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:21:37",
+          "points": 65,
+          "cup_status": "dropped"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:10:58",
+          "points": 70,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Чумова Надежда",
+      "team": "Центр.округ, Or-ly",
+      "qual": "КМС",
+      "year_birth": 1962,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 420,
+      "events": {
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:35:45",
+          "points": 70,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:00:22",
+          "points": 67,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "00:53:01",
+          "points": 75,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:07:43",
+          "points": 64,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:45:30",
+          "points": 73,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:43:35",
+          "points": 71,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Мартемьянычев Евгений",
+      "team": "Октябрьский район",
+      "qual": "КМС",
+      "year_birth": 1956,
+      "gender": "male",
+      "comp_class": "М60",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 410,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:09:02",
+          "points": 62,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:08:26",
+          "points": 70,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:23:34",
+          "points": 76,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:00:09",
+          "points": 66,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:15:25",
+          "points": 69,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:15:25",
+          "points": 67,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Зима Александра",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1992,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 409,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:03:20",
+          "points": 49,
+          "cup_status": "dropped"
+        },
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:40:36",
+          "points": 62,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "00:53:53",
+          "points": 75,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:38:51",
+          "points": 70,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:02:46",
+          "points": 63,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:14:20",
+          "points": 58,
+          "cup_status": "dropped"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:47:52",
+          "points": 69,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:14:10",
+          "points": 70,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Егитова Ирина",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "МС",
+      "year_birth": 1995,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 7,
+      "num_counted": 6,
+      "cup_result": 408,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "00:51:02",
+          "points": 61,
+          "cup_status": "dropped"
+        },
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:38:57",
+          "points": 65,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "00:59:14",
+          "points": 68,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "00:56:24",
+          "points": 70,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:05:49",
+          "points": 65,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:46:24",
+          "points": 71,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:44:51",
+          "points": 69,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Демин Александр",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "КМС",
+      "year_birth": 2004,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 398,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "00:43:22",
+          "points": 100,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "00:48:06",
+          "points": 100,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "00:55:07",
+          "points": 96,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "00:52:05",
+          "points": 97,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Деев Сергей",
+      "team": "Центр.округ, Or-ly",
+      "qual": "КМС",
+      "year_birth": 1957,
+      "gender": "male",
+      "comp_class": "М60",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 386,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:16:32",
+          "points": 56,
+          "cup_status": "dropped"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:55:08",
+          "points": 54,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:29:58",
+          "points": 57,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:11:33",
+          "points": 67,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:26:18",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:08:43",
+          "points": 58,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:16:10",
+          "points": 67,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:20:18",
+          "points": 63,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Маерова Анна",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1964,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 377,
+      "events": {
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:39:27",
+          "points": 64,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:06:20",
+          "points": 61,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:42:03",
+          "points": 64,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:03:06",
+          "points": 62,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:24:23",
+          "points": 51,
+          "cup_status": "dropped"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:55:57",
+          "points": 59,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:55:43",
+          "points": 55,
+          "cup_status": "dropped"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:18:30",
+          "points": 67,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Башарова Эльвира",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 1993,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 373,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "00:42:22",
+          "points": 74,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:35:27",
+          "points": 77,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "00:51:30",
+          "points": 77,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:10:32",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "",
+          "result": "00:00:00",
+          "points": 80,
+          "cup_status": "technical-director counted"
+        }
+      }
+    },
+    {
+      "name": "Бортников Владимир",
+      "team": "г. Бердск",
+      "qual": "I",
+      "year_birth": 1972,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 361,
+      "events": {
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:13:59",
+          "points": 70,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:05:42",
+          "points": 73,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:19:58",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:01:00",
+          "points": 65,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:08:56",
+          "points": 73,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Пугачев Алексей",
+      "team": "Советский район",
+      "qual": "II",
+      "year_birth": 1957,
+      "gender": "male",
+      "comp_class": "М60",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 357,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:27:00",
+          "points": 49,
+          "cup_status": "dropped"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:57:37",
+          "points": 52,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:45:23",
+          "points": 48,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:24:23",
+          "points": 56,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:31:48",
+          "points": 69,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:05:39",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:27:30",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:23:43",
+          "points": 60,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Степанов Виктор",
+      "team": "Советский район",
+      "qual": "МС",
+      "year_birth": 1947,
+      "gender": "male",
+      "comp_class": "М70",
+      "num_events": 7,
+      "num_counted": 6,
+      "cup_result": 348,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:18:45",
+          "points": 54,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:27:56",
+          "points": 46,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:17:08",
+          "points": 62,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:14:45",
+          "points": 57,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:53:28",
+          "points": 58,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:13:51",
+          "points": 71,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Окунев Алексей",
+      "team": "НГУ",
+      "qual": "III",
+      "year_birth": 1973,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 347,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:12:02",
+          "points": 59,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:18:04",
+          "points": 61,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:44:49",
+          "points": 61,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:07:45",
+          "points": 59,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:55:46",
+          "points": 45,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:21:11",
+          "points": 62,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Калашников Добромир",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2007,
+      "gender": "male",
+      "comp_class": "М14",
+      "num_events": 9,
+      "num_counted": 6,
+      "cup_result": 346,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "00:50:53",
+          "points": 56,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "C",
+          "result": "00:33:49",
+          "points": 49,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "C",
+          "result": "00:55:34",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "C",
+          "result": "00:39:45",
+          "points": 42,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "C",
+          "result": "01:04:40",
+          "points": 52,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "00:53:51",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "C",
+          "result": "00:41:49",
+          "points": 58,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "01:06:23",
+          "points": 47,
+          "cup_status": "dropped"
+        },
+        "2021-02-28": {
+          "group": "C",
+          "result": "01:12:32",
+          "points": 60,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Бабина Ксения",
+      "team": "НГУ",
+      "qual": "I",
+      "year_birth": 1989,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 7,
+      "num_counted": 6,
+      "cup_result": 337,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:37:03",
+          "points": 32,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:11:44",
+          "points": 56,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "01:04:08",
+          "points": 42,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:04:58",
+          "points": 61,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:17:27",
+          "points": 56,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "01:01:34",
+          "points": 54,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:17:02",
+          "points": 68,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Пархомчук Екатерина",
+      "team": "Сов. р-он, НГУ",
+      "qual": "I",
+      "year_birth": 1974,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 331,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "00:50:13",
+          "points": 62,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "00:56:43",
+          "points": 69,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:51:39",
+          "points": 64,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:54:50",
+          "points": 56,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:10:18",
+          "points": 75,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шалыгин Антон",
+      "team": "Советский район",
+      "qual": "II",
+      "year_birth": 1986,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 4,
+      "num_counted": 4,
+      "cup_result": 315,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:00:31",
+          "points": 71,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:01:38",
+          "points": 78,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:13:54",
+          "points": 86,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:49:03",
+          "points": 80,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Лактюшин Николай",
+      "team": "Советский район",
+      "qual": "КМС",
+      "year_birth": 1945,
+      "gender": "male",
+      "comp_class": "М70",
+      "num_events": 7,
+      "num_counted": 6,
+      "cup_result": 311,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "00:47:34",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "C",
+          "result": "00:28:13",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "C",
+          "result": "01:04:12",
+          "points": 51,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "C",
+          "result": "00:41:28",
+          "points": 41,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "C",
+          "result": "01:09:01",
+          "points": 49,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:04:03",
+          "points": 50,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "dropped"
+        }
+      }
+    },
+    {
+      "name": "Анисимов Евгений",
+      "team": "Кировский район",
+      "qual": "I",
+      "year_birth": 1984,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 307,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:11:21",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:19:22",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:33:19",
+          "points": 68,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:11:23",
+          "points": 55,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:22:22",
+          "points": 64,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Зикирин Дархан",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "Iю",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 296,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "00:58:05",
+          "points": 48,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "C",
+          "result": "00:43:19",
+          "points": 39,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "C",
+          "result": "01:36:52",
+          "points": 34,
+          "cup_status": "dropped"
+        },
+        "2021-01-23": {
+          "group": "C",
+          "result": "00:38:49",
+          "points": 43,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "C",
+          "result": "00:56:31",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:00:29",
+          "points": 53,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "C",
+          "result": "00:52:27",
+          "points": 46,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "C",
+          "result": "01:34:19",
+          "points": 46,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шевырина Мадина",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1987,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 296,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:09:57",
+          "points": 44,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:11:04",
+          "points": 57,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "01:00:59",
+          "points": 45,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:09:35",
+          "points": 57,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:39:57",
+          "points": 43,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "01:05:26",
+          "points": 50,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "01:11:10",
+          "points": 43,
+          "cup_status": "dropped"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "dropped"
+        }
+      }
+    },
+    {
+      "name": "Плохих Константин",
+      "team": "г. Кемерово",
+      "qual": "II",
+      "year_birth": 1965,
+      "gender": "male",
+      "comp_class": "М50",
+      "num_events": 4,
+      "num_counted": 4,
+      "cup_result": 288,
+      "events": {
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:12:14",
+          "points": 66,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:21:13",
+          "points": 77,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:09:49",
+          "points": 76,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:12:10",
+          "points": 69,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Хачкова Татьяна",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1977,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 282,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:37:52",
+          "points": 30,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:53:45",
+          "points": 51,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:15:04",
+          "points": 53,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:31:14",
+          "points": 47,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "01:00:22",
+          "points": 51,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:45:16",
+          "points": 50,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Ершов Иван",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "II",
+      "year_birth": 2004,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 279,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:00:53",
+          "points": 69,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:24:00",
+          "points": 61,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:14:34",
+          "points": 64,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:09:54",
+          "points": 75,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Димов Сергей",
+      "team": "Советский район",
+      "qual": "I",
+      "year_birth": 1962,
+      "gender": "male",
+      "comp_class": "М50",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 278,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:22:14",
+          "points": 52,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "A",
+          "result": "00:51:36",
+          "points": 58,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:38:34",
+          "points": 48,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:40:43",
+          "points": 63,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:09:41",
+          "points": 57,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Патрин Георгий",
+      "team": "НГУ",
+      "qual": "II",
+      "year_birth": 2002,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 277,
+      "events": {
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:42:08",
+          "points": 50,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:24:20",
+          "points": 57,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:46:27",
+          "points": 59,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:25:11",
+          "points": 62,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:42:52",
+          "points": 49,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Мелентьева Мария",
+      "team": "Октябрьский район",
+      "qual": "I",
+      "year_birth": 2004,
+      "gender": "female",
+      "comp_class": "Ж17",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 271,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:37:22",
+          "points": 31,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:37:37",
+          "points": 67,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:43:59",
+          "points": 62,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:28:36",
+          "points": 49,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "B",
+          "result": "00:54:28",
+          "points": 57,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Брусенцова Настя",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "II",
+      "year_birth": 2008,
+      "gender": "female",
+      "comp_class": "Ж14",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 264,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "00:57:13",
+          "points": 49,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "C",
+          "result": "00:48:25",
+          "points": 35,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "C",
+          "result": "01:05:08",
+          "points": 51,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:04:26",
+          "points": 49,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "C",
+          "result": "01:06:25",
+          "points": 36,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "C",
+          "result": "01:38:16",
+          "points": 44,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Бишаев Юрий",
+      "team": "",
+      "qual": "",
+      "year_birth": 1981,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 247,
+      "events": {
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:03:40",
+          "points": 75,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:09:59",
+          "points": 91,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "00:48:52",
+          "points": 81,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Брусенцов Тимофей",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "II",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М17",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 246,
+      "events": {
+        "2021-01-23": {
+          "group": "C",
+          "result": "00:57:15",
+          "points": 29,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:10:30",
+          "points": 56,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "00:56:27",
+          "points": 57,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "C",
+          "result": "00:40:28",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "B",
+          "result": "01:59:22",
+          "points": 44,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Димова Александра",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "МС",
+      "year_birth": 1996,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 239,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "00:39:18",
+          "points": 80,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:34:28",
+          "points": 79,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "00:54:20",
+          "points": 80,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шевырина Виктория",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "IIю",
+      "year_birth": 2011,
+      "gender": "female",
+      "comp_class": "Ж11",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 238,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:20:31",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "D",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "dropped"
+        },
+        "2021-01-23": {
+          "group": "D",
+          "result": "00:24:05",
+          "points": 27,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "00:27:48",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "00:35:38",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "D",
+          "result": "00:21:46",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "D",
+          "result": "00:29:32",
+          "points": 38,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "00:41:20",
+          "points": 40,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Аникин Александр",
+      "team": "г. Бердск",
+      "qual": "",
+      "year_birth": 1972,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 237,
+      "events": {
+        "2021-01-10": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:21:14",
+          "points": 58,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:45:53",
+          "points": 60,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:04:47",
+          "points": 61,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:35:29",
+          "points": 53,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Ершов Андрей",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 234,
+      "events": {
+        "2021-01-10": {
+          "group": "C",
+          "result": "01:58:15",
+          "points": 28,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "C",
+          "result": "00:49:55",
+          "points": 34,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "C",
+          "result": "01:27:18",
+          "points": 38,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:03:09",
+          "points": 51,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "C",
+          "result": "01:02:36",
+          "points": 38,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "C",
+          "result": "01:35:02",
+          "points": 45,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Бакарев Егор",
+      "team": "Кусака Босака",
+      "qual": "",
+      "year_birth": 1987,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 224,
+      "events": {
+        "2021-01-07": {
+          "group": "A",
+          "result": "01:14:20",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:54:59",
+          "points": 45,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:45:18",
+          "points": 45,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "02:02:45",
+          "points": 52,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:59:48",
+          "points": 42,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Глазунова Альбина",
+      "team": "Центр.округ, Or-ly",
+      "qual": "МС",
+      "year_birth": 1982,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 221,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:06:27",
+          "points": 47,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:48:47",
+          "points": 52,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:13:35",
+          "points": 54,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "00:57:50",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "00:56:26",
+          "points": 58,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Зикирин Кайрат",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 215,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:27:41",
+          "points": 29,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "D",
+          "result": "00:23:46",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "D",
+          "result": "00:48:32",
+          "points": 32,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "D",
+          "result": "00:24:40",
+          "points": 26,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "00:39:44",
+          "points": 27,
+          "cup_status": "dropped"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "00:40:16",
+          "points": 35,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "D",
+          "result": "00:28:06",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "00:42:18",
+          "points": 39,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Федотова Милена",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1963,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 199,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:31:21",
+          "points": 34,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:39:14",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "01:07:55",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:25:15",
+          "points": 46,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:50:33",
+          "points": 39,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Маликов Леонид",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2011,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 8,
+      "num_counted": 6,
+      "cup_result": 184,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:47:19",
+          "points": 17,
+          "cup_status": "dropped"
+        },
+        "2021-01-10": {
+          "group": "D",
+          "result": "00:47:39",
+          "points": 33,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "D",
+          "result": "00:42:25",
+          "points": 15,
+          "cup_status": "dropped"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "00:41:31",
+          "points": 26,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "00:41:53",
+          "points": 34,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "D",
+          "result": "00:23:21",
+          "points": 37,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "D",
+          "result": "00:34:43",
+          "points": 32,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "01:13:00",
+          "points": 22,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Насонов Дмитрий",
+      "team": "НГУ",
+      "qual": "КМС",
+      "year_birth": 2001,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 181,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:17:38",
+          "points": 55,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:09:54",
+          "points": 56,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:15:10",
+          "points": 70,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Демин Иван",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "IIю",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 178,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:29:04",
+          "points": 28,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "D",
+          "result": "00:16:48",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "00:29:49",
+          "points": 36,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "00:36:45",
+          "points": 38,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "00:45:00",
+          "points": 36,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Толстов Андрей",
+      "team": "НГУ",
+      "qual": "МС",
+      "year_birth": 1985,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 164,
+      "events": {
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:20:17",
+          "points": 59,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "",
+          "result": "00:00:00",
+          "points": 100,
+          "cup_status": "technical-director counted"
+        }
+      }
+    },
+    {
+      "name": "Цыренов Илья",
+      "team": "НГУ",
+      "qual": "IIю",
+      "year_birth": 2004,
+      "gender": "male",
+      "comp_class": "М17",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 148,
+      "events": {
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:17:34",
+          "points": 51,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:33:14",
+          "points": 46,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "01:03:42",
+          "points": 51,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Морозова Мария",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "IIю",
+      "year_birth": 2006,
+      "gender": "female",
+      "comp_class": "Ж17",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 141,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:10:26",
+          "points": 43,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "B",
+          "result": "00:55:50",
+          "points": 45,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:16:00",
+          "points": 53,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Ложников Виктор",
+      "team": "НГУ",
+      "qual": "I",
+      "year_birth": 2000,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 137,
+      "events": {
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:17:58",
+          "points": 66,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:10:29",
+          "points": 71,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Абдуллина Софья",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1980,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 122,
+      "events": {
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:41:39",
+          "points": 65,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "01:03:17",
+          "points": 52,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Васильев Александр",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "II",
+      "year_birth": 2007,
+      "gender": "male",
+      "comp_class": "М14",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 110,
+      "events": {
+        "2021-01-07": {
+          "group": "C",
+          "result": "00:33:34",
+          "points": 50,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "C",
+          "result": "00:28:24",
+          "points": 60,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Крупин Матвей",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 106,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:49:43",
+          "points": 16,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "D",
+          "result": "01:58:07",
+          "points": 13,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "D",
+          "result": "00:31:23",
+          "points": 21,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "00:43:17",
+          "points": 25,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "01:44:37",
+          "points": 13,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "D",
+          "result": "01:00:39",
+          "points": 18,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Брусенцов Илья",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1975,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 105,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "01:21:41",
+          "points": 53,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:16:12",
+          "points": 52,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Рыжов Тимофей",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2012,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 7,
+      "num_counted": 6,
+      "cup_result": 102,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:55:12",
+          "points": 14,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "D",
+          "result": "00:36:01",
+          "points": 18,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "01:18:01",
+          "points": 14,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "01:37:54",
+          "points": 14,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "Д+Р",
+          "result": "00:36:23",
+          "points": 10,
+          "cup_status": "dropped"
+        },
+        "2021-02-21": {
+          "group": "D",
+          "result": "00:53:11",
+          "points": 21,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "01:14:01",
+          "points": 21,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Юдин Пётр",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1982,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 92,
+      "events": {
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:09:24",
+          "points": 92,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Мищенко Василий",
+      "team": "г. Искитим",
+      "qual": "III",
+      "year_birth": 1971,
+      "gender": "male",
+      "comp_class": "М50",
+      "num_events": 4,
+      "num_counted": 4,
+      "cup_result": 91,
+      "events": {
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:58:19",
+          "points": 40,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:34:50",
+          "points": 41,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Маликов Павел",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 86,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "02:21:36",
+          "points": 20,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "C",
+          "result": "02:04:03",
+          "points": 26,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "00:32:59",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "00:46:56",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "Dвзр",
+          "result": "00:18:58",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "D",
+          "result": "00:39:41",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Сысоева Анна",
+      "team": "Академ",
+      "qual": "",
+      "year_birth": 1981,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 84,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "01:02:05",
+          "points": 44,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "01:35:16",
+          "points": 35,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Аникин Михаил",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "КМС",
+      "year_birth": 2000,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 83,
+      "events": {
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:02:37",
+          "points": 83,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Кутуев Лев",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М14",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 81,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "01:56:22",
+          "points": 24,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "C",
+          "result": "02:12:40",
+          "points": 25,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "D",
+          "result": "00:51:02",
+          "points": 17,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "02:22:15",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Фомичев Андрей",
+      "team": "МБОУ СОШ 23",
+      "qual": "I",
+      "year_birth": 1988,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 78,
+      "events": {
+        "2021-02-07": {
+          "group": "A",
+          "result": "01:21:04",
+          "points": 78,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Лисица Валерий",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 76,
+      "events": {
+        "2021-01-07": {
+          "group": "D",
+          "result": "00:31:17",
+          "points": 30,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "D",
+          "result": "01:44:04",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "00:39:23",
+          "points": 36,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Евсюков Сергей",
+      "team": "КСО «Легенда»",
+      "qual": "II",
+      "year_birth": 1983,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 73,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "00:58:37",
+          "points": 73,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Евсюков Даниил",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 73,
+      "events": {
+        "2021-01-07": {
+          "group": "D",
+          "result": "00:28:13",
+          "points": 33,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "D",
+          "result": "00:40:15",
+          "points": 40,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Имшинецкий Федор",
+      "team": "НУ(К)ОР",
+      "qual": "",
+      "year_birth": 2003,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 73,
+      "events": {
+        "2021-02-21": {
+          "group": "A",
+          "result": "01:12:07",
+          "points": 73,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Бишаев Роман",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2011,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 70,
+      "events": {
+        "2021-02-06": {
+          "group": "D",
+          "result": "00:29:33",
+          "points": 37,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "00:42:04",
+          "points": 33,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шаталов Матвей",
+      "team": "",
+      "qual": "",
+      "year_birth": 2003,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 65,
+      "events": {
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:12:36",
+          "points": 65,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Медведков Ивaн",
+      "team": "Кедр",
+      "qual": "",
+      "year_birth": 1987,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 64,
+      "events": {
+        "2021-02-28": {
+          "group": "A",
+          "result": "01:19:19",
+          "points": 64,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Федотова Софья",
+      "team": "г. Томск",
+      "qual": "КМС",
+      "year_birth": 2002,
+      "gender": "female",
+      "comp_class": "Ж17",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 63,
+      "events": {
+        "2021-01-23": {
+          "group": "B",
+          "result": "00:42:31",
+          "points": 63,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Фидлер Марина",
+      "team": "",
+      "qual": "",
+      "year_birth": 1990,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 2,
+      "num_counted": 1,
+      "cup_result": 62,
+      "events": {
+        "2021-02-06": {
+          "group": "A",
+          "result": "01:15:57",
+          "points": 63,
+          "cup_status": "dropped"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "01:09:02",
+          "points": 62,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Соколова Октябрина",
+      "team": "Or-Ly",
+      "qual": "КМС",
+      "year_birth": 1952,
+      "gender": "female",
+      "comp_class": "Ж60",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 60,
+      "events": {
+        "2021-02-21": {
+          "group": "C",
+          "result": "00:54:17",
+          "points": 60,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Новиченко Виктор",
+      "team": "СКА ветеран",
+      "qual": "I",
+      "year_birth": 1962,
+      "gender": "male",
+      "comp_class": "М50",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 59,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "A",
+          "result": "01:44:48",
+          "points": 49,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Рыжова Надежда",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1976,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "num_events": 6,
+      "num_counted": 6,
+      "cup_result": 57,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "B",
+          "result": "01:40:33",
+          "points": 27,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "C",
+          "result": "01:40:23",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Ласкарь Альберт",
+      "team": "ТСЦ «Панда»",
+      "qual": "КМС",
+      "year_birth": 1941,
+      "gender": "male",
+      "comp_class": "М70",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 55,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:54:23",
+          "points": 15,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "Dвзр",
+          "result": "00:46:47",
+          "points": 40,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Иваненко Владимир",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2012,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 4,
+      "num_counted": 4,
+      "cup_result": 54,
+      "events": {
+        "2021-02-06": {
+          "group": "D",
+          "result": "01:18:13",
+          "points": 13,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "D",
+          "result": "01:06:52",
+          "points": 21,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "Д+Р",
+          "result": "00:44:56",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "Д+Р",
+          "result": "01:00:45",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Рыжов Кирилл",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2016,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 5,
+      "num_counted": 5,
+      "cup_result": 50,
+      "events": {
+        "2020-12-20": {
+          "group": "Д+Р",
+          "result": "01:03:38",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-01-23": {
+          "group": "Д+Р",
+          "result": "00:41:39",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "Д+Р",
+          "result": "00:47:24",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "Д+Р",
+          "result": "00:55:32",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "Д+Р",
+          "result": "01:23:33",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Назарова Светлана",
+      "team": "ДЮСШ «ТЭИС»",
+      "qual": "I",
+      "year_birth": 2004,
+      "gender": "female",
+      "comp_class": "Ж17",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 50,
+      "events": {
+        "2021-02-06": {
+          "group": "B",
+          "result": "01:19:18",
+          "points": 50,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Аникин Владимир",
+      "team": "Юность Бердск",
+      "qual": "",
+      "year_birth": 2006,
+      "gender": "male",
+      "comp_class": "М17",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 49,
+      "events": {
+        "2021-02-14": {
+          "group": "B",
+          "result": "01:05:53",
+          "points": 49,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Алимов Дмитрий",
+      "team": "НГУ",
+      "qual": "",
+      "year_birth": 2000,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 47,
+      "events": {
+        "2020-12-20": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "A",
+          "result": "01:34:22",
+          "points": 42,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шарафутдинов Булат",
+      "team": "Дзержинский район",
+      "qual": "I",
+      "year_birth": 1948,
+      "gender": "male",
+      "comp_class": "М70",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 46,
+      "events": {
+        "2021-02-21": {
+          "group": "B",
+          "result": "01:06:36",
+          "points": 46,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Васильева Анастасия",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1973,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 43,
+      "events": {
+        "2021-01-10": {
+          "group": "B",
+          "result": "01:33:19",
+          "points": 43,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Лысковская Екатерина",
+      "team": "Советский район",
+      "qual": "II",
+      "year_birth": 1977,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 30,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "01:11:57",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-01-07": {
+          "group": "C",
+          "result": "00:45:15",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-01-10": {
+          "group": "C",
+          "result": "01:08:55",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Белышева Екатерина",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1984,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 30,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "01:18:56",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "C",
+          "result": "01:54:06",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "C",
+          "result": "02:17:36",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Власова Екатерина",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2001,
+      "gender": "female",
+      "comp_class": "Ж17",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 29,
+      "events": {
+        "2020-12-20": {
+          "group": "B",
+          "result": "01:42:42",
+          "points": 29,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Рыжова Анна",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1985,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 25,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "01:40:06",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "B",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "C",
+          "result": "01:39:46",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Холодов Геннадий",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1969,
+      "gender": "male",
+      "comp_class": "М50",
+      "num_events": 3,
+      "num_counted": 3,
+      "cup_result": 25,
+      "events": {
+        "2021-01-23": {
+          "group": "B",
+          "result": "01:39:58",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:16:03",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Лисица Алиса",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2016,
+      "gender": "female",
+      "comp_class": "Д+Р",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 20,
+      "events": {
+        "2021-01-10": {
+          "group": "Д+Р",
+          "result": "00:51:52",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "Д+Р",
+          "result": "01:09:45",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Мацко Тимофей",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2014,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 20,
+      "events": {
+        "2021-01-10": {
+          "group": "Д+Р",
+          "result": "01:33:53",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-06": {
+          "group": "Д+Р",
+          "result": "01:10:52",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Лысковский Сергей",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1975,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 20,
+      "events": {
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:14:36",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-14": {
+          "group": "B",
+          "result": "01:24:35",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Зикирина Ольга",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1983,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 20,
+      "events": {
+        "2021-02-21": {
+          "group": "D",
+          "result": "00:50:27",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "00:58:32",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Мунгалов Тимофей",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2013,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 15,
+      "events": {
+        "2021-02-14": {
+          "group": "Д+Р",
+          "result": "01:04:18",
+          "points": 10,
+          "cup_status": "counted"
+        },
+        "2021-02-21": {
+          "group": "Д+Р",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Козьминых Вадим",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 13,
+      "events": {
+        "2020-12-20": {
+          "group": "D",
+          "result": "00:56:04",
+          "points": 13,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Мегедь Лиана",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2010,
+      "gender": "female",
+      "comp_class": "Ж11",
+      "num_events": 2,
+      "num_counted": 1,
+      "cup_result": 11,
+      "events": {
+        "2021-02-07": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "dropped"
+        },
+        "2021-02-28": {
+          "group": "D",
+          "result": "02:19:42",
+          "points": 11,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Солдатов Артём",
+      "team": "RN Фаза полета",
+      "qual": "",
+      "year_birth": 2014,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2020-12-20": {
+          "group": "Д+Р",
+          "result": "00:56:19",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Козьминых Алина",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1983,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2020-12-20": {
+          "group": "C",
+          "result": "01:51:59",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Архипов Артём",
+      "team": "Or-Ly",
+      "qual": "",
+      "year_birth": 2013,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-01-07": {
+          "group": "Д+Р",
+          "result": "00:46:38",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шевырина Надежда",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2016,
+      "gender": "female",
+      "comp_class": "Д+Р",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-01-10": {
+          "group": "Д+Р",
+          "result": "00:00:00",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Крупина Милла",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "Iю",
+      "year_birth": 2005,
+      "gender": "female",
+      "comp_class": "Ж17",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-01-10": {
+          "group": "C",
+          "result": "01:29:36",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Сальников Олег",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1992,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 2,
+      "num_counted": 2,
+      "cup_result": 10,
+      "events": {
+        "2021-01-10": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        },
+        "2021-02-28": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шалыгин Владимир",
+      "team": "",
+      "qual": "",
+      "year_birth": 2014,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-06": {
+          "group": "Д+Р",
+          "result": "00:58:19",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шалыгин Петр",
+      "team": "",
+      "qual": "",
+      "year_birth": 2014,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-06": {
+          "group": "Д+Р",
+          "result": "00:59:34",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Романьков Антон",
+      "team": "",
+      "qual": "",
+      "year_birth": 0,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-06": {
+          "group": "C",
+          "result": "01:07:20",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Демина Ольга",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1976,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:02:04",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Трифонов Алексей",
+      "team": "НГУ",
+      "qual": "",
+      "year_birth": 2002,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:06:52",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Шляхова Елена",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1980,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-07": {
+          "group": "C",
+          "result": "01:22:08",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Икрянов Святослав",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-14": {
+          "group": "Д+Р",
+          "result": "01:17:56",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Медведков Иван",
+      "team": "Кедр",
+      "qual": "",
+      "year_birth": 2013,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-28": {
+          "group": "Д+Р",
+          "result": "01:08:36",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Рыжов Илья",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1985,
+      "gender": "male",
+      "comp_class": "М21",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 10,
+      "events": {
+        "2021-02-28": {
+          "group": "C",
+          "result": "01:46:00",
+          "points": 10,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Ахметьянов Денис",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2011,
+      "gender": "male",
+      "comp_class": "М11",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 5,
+      "events": {
+        "2021-01-23": {
+          "group": "D",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Нищериков Андрей",
+      "team": "МБОУ СОШ №23",
+      "qual": "",
+      "year_birth": 2003,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 5,
+      "events": {
+        "2021-02-06": {
+          "group": "A",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Звездаков Иван",
+      "team": "",
+      "qual": "",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 5,
+      "events": {
+        "2021-02-06": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Пантелеев Семён",
+      "team": "НГУ",
+      "qual": "",
+      "year_birth": 2002,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 5,
+      "events": {
+        "2021-02-07": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Курмачев Дмитрий",
+      "team": "НГУ",
+      "qual": "",
+      "year_birth": 2002,
+      "gender": "male",
+      "comp_class": "М20",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 5,
+      "events": {
+        "2021-02-07": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    },
+    {
+      "name": "Кузьмичева Мина",
+      "team": "Заельцовский район",
+      "qual": "",
+      "year_birth": 1958,
+      "gender": "female",
+      "comp_class": "Ж60",
+      "num_events": 1,
+      "num_counted": 1,
+      "cup_result": 5,
+      "events": {
+        "2021-02-21": {
+          "group": "C",
+          "result": "СНЯТ",
+          "points": 5,
+          "cup_status": "counted"
+        }
+      }
+    }
+  ]
+}

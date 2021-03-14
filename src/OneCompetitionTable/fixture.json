@@ -1,0 +1,630 @@
+{
+  "name": "2021-02-14",
+  "short_name": "14 фев",
+  "long_name": "Чемпионат и Первенство г. Новосибирска по спортивному ориентированию 7-й этап Кубка «NSki-O-Tour-2021» Лыжная гонка — классика",
+  "route_name": "2021-02-14",
+  "date": "14 февраля 2021 г.",
+  "location": "Ботсад НГУ",
+  "groups": [
+    {
+      "name": "A",
+      "num_controls": 20,
+      "length": 5.9
+    },
+    {
+      "name": "B",
+      "num_controls": 14,
+      "length": 4.7
+    },
+    {
+      "name": "C",
+      "num_controls": 12,
+      "length": 3.2
+    },
+    {
+      "name": "D",
+      "num_controls": 5,
+      "length": 1.6
+    },
+    {
+      "name": "Dвзр",
+      "num_controls": 5,
+      "length": 1.6
+    },
+    {
+      "name": "Д+Р",
+      "num_controls": 5,
+      "length": 1.6
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Маликов Павел",
+      "team": "ДЮСШ «ТЭИС»",
+      "qual": "",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "group": "Dвзр",
+      "result": "00:18:58",
+      "points": 10
+    },
+    {
+      "name": "Шевырина Виктория",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "IIю",
+      "year_birth": 2011,
+      "gender": "female",
+      "comp_class": "Ж11",
+      "group": "D",
+      "result": "00:21:46",
+      "points": 40
+    },
+    {
+      "name": "Маликов Леонид",
+      "team": "ДЮСШ «ТЭИС»",
+      "qual": "",
+      "year_birth": 2011,
+      "gender": "male",
+      "comp_class": "М11",
+      "group": "D",
+      "result": "00:23:21",
+      "points": 37
+    },
+    {
+      "name": "Рыжов Тимофей",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2012,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "group": "Д+Р",
+      "result": "00:36:23",
+      "points": 10
+    },
+    {
+      "name": "Удалкин Никита",
+      "team": "Центр.округ, Or-ly",
+      "qual": "КМС",
+      "year_birth": 1995,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "00:40:02",
+      "points": 100
+    },
+    {
+      "name": "Брусенцов Тимофей",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "II",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "group": "C",
+      "result": "00:40:28",
+      "points": 60
+    },
+    {
+      "name": "Архипова Кира",
+      "team": "Центр.округ, Or-ly",
+      "qual": "МС",
+      "year_birth": 1986,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "00:41:43",
+      "points": 80
+    },
+    {
+      "name": "Калашников Добромир",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2007,
+      "gender": "male",
+      "comp_class": "М14",
+      "group": "C",
+      "result": "00:41:49",
+      "points": 58
+    },
+    {
+      "name": "Опарин Григорий",
+      "team": "НГУ",
+      "qual": "МС",
+      "year_birth": 1977,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "00:44:21",
+      "points": 90
+    },
+    {
+      "name": "Опарин Дмитрий",
+      "team": "ДЮСШ «ТЭИС»",
+      "qual": "I",
+      "year_birth": 2004,
+      "gender": "male",
+      "comp_class": "М20",
+      "group": "A",
+      "result": "00:44:37",
+      "points": 89
+    },
+    {
+      "name": "Иваненко Владимир",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2012,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "group": "Д+Р",
+      "result": "00:44:56",
+      "points": 10
+    },
+    {
+      "name": "Чумова Надежда",
+      "team": "Центр.округ, Or-ly",
+      "qual": "КМС",
+      "year_birth": 1962,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "group": "B",
+      "result": "00:45:30",
+      "points": 73
+    },
+    {
+      "name": "Прасолова Мария",
+      "team": "Советский район",
+      "qual": "МС",
+      "year_birth": 1985,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "00:46:04",
+      "points": 72
+    },
+    {
+      "name": "Егитова Ирина",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "МС",
+      "year_birth": 1995,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "00:46:24",
+      "points": 71
+    },
+    {
+      "name": "Ласкарь Альберт",
+      "team": "ТСЦ «Панда»",
+      "qual": "КМС",
+      "year_birth": 1941,
+      "gender": "male",
+      "comp_class": "М70",
+      "group": "Dвзр",
+      "result": "00:46:47",
+      "points": 40
+    },
+    {
+      "name": "Рыжов Кирилл",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 2016,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "group": "Д+Р",
+      "result": "00:47:24",
+      "points": 10
+    },
+    {
+      "name": "Зима Александра",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1992,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "00:47:52",
+      "points": 69
+    },
+    {
+      "name": "Бишаев Юрий",
+      "team": "Геология",
+      "qual": "КМС",
+      "year_birth": 1981,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "00:48:52",
+      "points": 81
+    },
+    {
+      "name": "Шалыгин Антон",
+      "team": "Советский район",
+      "qual": "II",
+      "year_birth": 1986,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "00:49:03",
+      "points": 80
+    },
+    {
+      "name": "Турубаров Александр",
+      "team": "Советский район",
+      "qual": "I",
+      "year_birth": 1988,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "00:50:38",
+      "points": 79
+    },
+    {
+      "name": "Кутуев Лев",
+      "team": "Советский район",
+      "qual": "IIIю",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "М11",
+      "group": "D",
+      "result": "00:51:02",
+      "points": 17
+    },
+    {
+      "name": "Пархомчук Екатерина",
+      "team": "Сов. р-он, НГУ",
+      "qual": "I",
+      "year_birth": 1974,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "group": "B",
+      "result": "00:51:39",
+      "points": 64
+    },
+    {
+      "name": "Лисица Вадим",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1980,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "00:52:12",
+      "points": 76
+    },
+    {
+      "name": "Зикирин Дархан",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "Iю",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "group": "C",
+      "result": "00:52:27",
+      "points": 46
+    },
+    {
+      "name": "Артемов Алексей",
+      "team": "Советский район",
+      "qual": "МС",
+      "year_birth": 1985,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "00:53:54",
+      "points": 74
+    },
+    {
+      "name": "Маерова Анна",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1964,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "group": "B",
+      "result": "00:55:57",
+      "points": 59
+    },
+    {
+      "name": "Глазунова Альбина",
+      "team": "Центр.округ, Or-ly",
+      "qual": "МС",
+      "year_birth": 1982,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "00:56:26",
+      "points": 58
+    },
+    {
+      "name": "Мартемьянычев Евгений",
+      "team": "Октябрьский район",
+      "qual": "КМС",
+      "year_birth": 1956,
+      "gender": "male",
+      "comp_class": "М60",
+      "group": "A",
+      "result": "01:00:09",
+      "points": 66
+    },
+    {
+      "name": "Бортников Владимир",
+      "team": "г. Бердск",
+      "qual": "I",
+      "year_birth": 1972,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "01:01:00",
+      "points": 65
+    },
+    {
+      "name": "Бабина Ксения",
+      "team": "НГУ",
+      "qual": "I",
+      "year_birth": 1989,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "01:01:34",
+      "points": 54
+    },
+    {
+      "name": "Ершов Андрей",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "IIIю",
+      "year_birth": 2008,
+      "gender": "male",
+      "comp_class": "М14",
+      "group": "C",
+      "result": "01:02:36",
+      "points": 38
+    },
+    {
+      "name": "Абдуллина Софья",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1980,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "01:03:17",
+      "points": 52
+    },
+    {
+      "name": "Цыренов Илья",
+      "team": "НГУ",
+      "qual": "",
+      "year_birth": 2004,
+      "gender": "male",
+      "comp_class": "М17",
+      "group": "B",
+      "result": "01:03:42",
+      "points": 51
+    },
+    {
+      "name": "Мунгалов Тимофей",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2013,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "group": "Д+Р",
+      "result": "01:04:18",
+      "points": 10
+    },
+    {
+      "name": "Аникин Александр",
+      "team": "г. Бердск",
+      "qual": "I",
+      "year_birth": 1972,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "01:04:47",
+      "points": 61
+    },
+    {
+      "name": "Шевырина Мадина",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1987,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "01:05:26",
+      "points": 50
+    },
+    {
+      "name": "Пугачев Алексей",
+      "team": "Советский район",
+      "qual": "II",
+      "year_birth": 1957,
+      "gender": "male",
+      "comp_class": "М60",
+      "group": "A",
+      "result": "01:05:39",
+      "points": 60
+    },
+    {
+      "name": "Аникин Владимир",
+      "team": "Юность Бердск",
+      "qual": "",
+      "year_birth": 2006,
+      "gender": "male",
+      "comp_class": "М17",
+      "group": "B",
+      "result": "01:05:53",
+      "points": 49
+    },
+    {
+      "name": "Брусенцова Настя",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "II",
+      "year_birth": 2008,
+      "gender": "female",
+      "comp_class": "Ж14",
+      "group": "C",
+      "result": "01:06:25",
+      "points": 36
+    },
+    {
+      "name": "Окунев Алексей",
+      "team": "НГУ",
+      "qual": "III",
+      "year_birth": 1973,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "01:07:45",
+      "points": 59
+    },
+    {
+      "name": "Деев Сергей",
+      "team": "Центр.округ, Or-ly",
+      "qual": "КМС",
+      "year_birth": 1957,
+      "gender": "male",
+      "comp_class": "М60",
+      "group": "A",
+      "result": "01:08:43",
+      "points": 58
+    },
+    {
+      "name": "Димов Сергей",
+      "team": "Советский район",
+      "qual": "I",
+      "year_birth": 1962,
+      "gender": "male",
+      "comp_class": "М50",
+      "group": "A",
+      "result": "01:09:41",
+      "points": 57
+    },
+    {
+      "name": "Насонов Дмитрий",
+      "team": "НГУ",
+      "qual": "КМС",
+      "year_birth": 2001,
+      "gender": "male",
+      "comp_class": "М20",
+      "group": "A",
+      "result": "01:09:54",
+      "points": 56
+    },
+    {
+      "name": "Анисимов Евгений",
+      "team": "Кировский район",
+      "qual": "I",
+      "year_birth": 1984,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "01:11:23",
+      "points": 55
+    },
+    {
+      "name": "Брусенцов Илья",
+      "team": "Советский район",
+      "qual": "III",
+      "year_birth": 1975,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "01:16:12",
+      "points": 52
+    },
+    {
+      "name": "Икрянов Святослав",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 2010,
+      "gender": "male",
+      "comp_class": "Д+Р",
+      "group": "Д+Р",
+      "result": "01:17:56",
+      "points": 10
+    },
+    {
+      "name": "Лысковский Сергей",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1975,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "B",
+      "result": "01:24:35",
+      "points": 10
+    },
+    {
+      "name": "Алимов Дмитрий",
+      "team": "НГУ",
+      "qual": "",
+      "year_birth": 2000,
+      "gender": "male",
+      "comp_class": "М21",
+      "group": "A",
+      "result": "01:34:22",
+      "points": 42
+    },
+    {
+      "name": "Мищенко Василий",
+      "team": "г. Искитим",
+      "qual": "III",
+      "year_birth": 1971,
+      "gender": "male",
+      "comp_class": "М50",
+      "group": "A",
+      "result": "01:34:50",
+      "points": 41
+    },
+    {
+      "name": "Сысоева Анна",
+      "team": "Академ",
+      "qual": "",
+      "year_birth": 1981,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "01:35:16",
+      "points": 35
+    },
+    {
+      "name": "Рыжова Надежда",
+      "team": "Советский район",
+      "qual": "",
+      "year_birth": 1976,
+      "gender": "female",
+      "comp_class": "Ж45",
+      "group": "C",
+      "result": "01:40:23",
+      "points": 10
+    },
+    {
+      "name": "Башарова Эльвира",
+      "team": "ДЮСШ ТЭИС",
+      "qual": "",
+      "year_birth": 1993,
+      "gender": "female",
+      "comp_class": "Ж21",
+      "group": "B",
+      "result": "СНЯТ",
+      "points": 5
+    },
+    {
+      "name": "Ершов Иван",
+      "team": "Сов. р-он, ДЮСШ ТЭИС",
+      "qual": "II",
+      "year_birth": 2004,
+      "gender": "male",
+      "comp_class": "М20",
+      "group": "A",
+      "result": "СНЯТ",
+      "points": 5
+    }
+  ],
+  "officials": {
+    "event-director": "С. А. Захарова",
+    "secretary": "А. Н. Карпов",
+    "technical-director": "С. А. Захарова"
+  }
+}
